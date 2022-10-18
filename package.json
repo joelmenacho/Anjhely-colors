@@ -1,9 +1,9 @@
 {
-  "name": "vue-color-avatar",
+  "name": "Anjhely",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",
-  "author": "LeoKu<czc12580520@gmail.com> (https://leoku.top)",
+  "author": "joel@gmail.com> ()",
   "scripts": {
     "build": "npm run test && vite build",
     "build:prerelease": "vite build --mode prerelease",

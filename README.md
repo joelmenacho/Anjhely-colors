@@ -13,8 +13,6 @@
 
 ## Preview
 
-[`https://vue-color-avatar.vercel.app`](https://vue-color-avatar.vercel.app)
-
 ## Introduction
 
 **This is a vector style avatar generator, you can match different material components to generate your own personalized avatar.**
